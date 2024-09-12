@@ -4,6 +4,9 @@ public class SampleTest {
 
 	public static void main(String[] args) {
 		System.out.println("Test");
-		//here start to write implementations
+		System.out.println("Test4");
+		System.out.println("Test5");
+		System.out.println("Test6");
+		
 	}
 }
